@@ -2,6 +2,6 @@
     display:none !important;
 }
 
-.boost-sd-layout {
+.boost-sd-layout, .boost-sd__toolbar-inner {
     max-width: 1280rem !important;
 }
