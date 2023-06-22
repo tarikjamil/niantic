@@ -1,0 +1,63 @@
+.main-wrapper {
+  opacity: 0;
+}
+
+.w-commerce-commerceaddtocartoptionpill {
+  height: 40rem;
+  padding: 0rem 16rem;
+  display: flex;
+  background-color: white;
+  border: 1px solid var(--color-n63881aa3);
+  line-height: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.w-commerce-commerceaddtocartoptionpill.w--ecommerce-pill-disabled {
+  background-color: white;
+  border: 1px solid var(--color-n63881aa3);
+  color: var(--color-n63881aa3);
+}
+
+.w-commerce-commerceaddtocartoptionpill.w--ecommerce-pill-selected {
+  background-color: var(--color-n63881aa3);
+  color: white;
+}
+
+.cart--quantity {
+  pointer-events: none;
+}
+
+.w-dropdown-list.w--open {
+  min-width: 120rem;
+  display: flex;
+  row-gap: 8rem;
+  flex-direction: column;
+}
+
+.foter-form-button {
+  transition-property: opacity;
+  transition-duration: 200ms;
+  transition-timing-function: ease;
+}
+
+.foter-form-button.is--active {
+  opacity: 1;
+}
+
+.category-button.w--current {
+  color: var(--color-21d1ff8);
+  background-color: var(--color-n63881aa3);
+  border-color: var(--color-n63881aa3);
+}
+
+.dropdown {
+  display: none;
+}
+form.out-of-stock {
+  color: inherit;
+  background-color: transparent;
+  margin-top: 0;
+  padding: 0;
+  font-size: 14rem;
+}
