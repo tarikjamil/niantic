@@ -1,3 +1,7 @@
 .boost-sd__header-title, .boost-sd__header-description {
     display:none !important;
 }
+
+.product-wrapper {
+    margin-top: 24rem !important;
+}
