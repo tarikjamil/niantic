@@ -5,3 +5,7 @@
 .product-wrapper {
     margin-top: 24rem !important;
 }
+
+.boost-sd-layout, .boost-sd__toolbar-inner {
+    max-width: 1280rem !important;
+}
