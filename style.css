@@ -19,6 +19,16 @@
   color: var(--color-n63881aa3);
 }
 
+.boost-sd__product-image {
+  border-radius: 36rem;
+}
+
+.boost-sd__product-image-row--bottom {
+  bottom: 20rem;
+  padding-left: 20rem;
+  padding-right: 20rem;
+}
+
 .w-commerce-commerceaddtocartoptionpill.w--ecommerce-pill-selected {
   background-color: var(--color-n63881aa3);
   color: white;
