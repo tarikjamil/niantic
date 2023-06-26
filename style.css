@@ -24,7 +24,7 @@
 }
 
 .boost-sd__product-image-row--bottom {
-  bottom: 20rem;
+  bottom: 20rem !important;
   padding-left: 20rem;
   padding-right: 20rem;
 }
