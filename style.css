@@ -11,6 +11,7 @@
   line-height: 1;
   align-items: center;
   justify-content: center;
+  border-radius: 36rem;
 }
 
 .w-commerce-commerceaddtocartoptionpill.w--ecommerce-pill-disabled {
