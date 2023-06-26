@@ -81,3 +81,9 @@ form.out-of-stock {
   padding: 0;
   font-size: 14rem;
 }
+
+@media screen and (max-width: 991px) {
+  .section.is--after-hero-home {
+    padding-bottom: 96rem;
+  }
+}
