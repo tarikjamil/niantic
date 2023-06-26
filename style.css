@@ -6,7 +6,7 @@
   height: 40rem;
   padding: 0rem 16rem;
   display: flex;
-  background-color: white;
+  background-color: transparent;
   border: 1px solid var(--color-n63881aa3);
   line-height: 1;
   align-items: center;
@@ -14,7 +14,7 @@
 }
 
 .w-commerce-commerceaddtocartoptionpill.w--ecommerce-pill-disabled {
-  background-color: white;
+  background-color: transparent;
   border: 1px solid var(--color-n63881aa3);
   color: var(--color-n63881aa3);
 }
@@ -22,6 +22,7 @@
 .w-commerce-commerceaddtocartoptionpill.w--ecommerce-pill-selected {
   background-color: var(--color-n63881aa3);
   color: white;
+  border-radius: 36rem;
 }
 
 .cart--quantity {
