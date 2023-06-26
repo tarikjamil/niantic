@@ -51,6 +51,10 @@
   border-color: var(--color-n63881aa3);
 }
 
+.category-item-bg {
+  border-radius: 36rem !important;
+}
+
 .dropdown {
   display: none;
 }
