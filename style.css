@@ -2,6 +2,10 @@
   opacity: 0;
 }
 
+.section.is--after-hero-home {
+  padding-bottom: 300rem;
+}
+
 .w-commerce-commerceaddtocartoptionpill {
   height: 40rem;
   padding: 0rem 16rem;
