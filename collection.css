@@ -21,12 +21,17 @@
 }
 
 .boost-sd__collection-header {
-    padding-right: 80rem;
-    padding-left: 80rem;
+  padding-right: 80rem;
+  padding-left: 80rem;
+  max-width: 1440rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 64rem;
+  margin-top: 64rem;
 }
 
 .boost-sd__header-image-inner {
-    height:480rem !important;
+  height: 480rem !important;
 }
 
 @media screen and (max-width: 767px) {
@@ -37,3 +42,11 @@
     display: flex;
     justify-content: left;
   }
+
+  .boost-sd__collection-header {
+    padding-right: 20rem;
+    padding-left: 20rem;
+    margin-bottom: 24rem;
+    margin-top: 24rem;
+  }
+}
