@@ -20,6 +20,11 @@
   justify-content: center;
 }
 
+.boost-sd__collection-header {
+    padding-right: 80rem;
+    padding-left: 80rem;
+}
+
 @media screen and (max-width: 767px) {
   .orange-banner {
     padding-right: 0;
