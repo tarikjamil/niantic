@@ -16,4 +16,6 @@
   padding-right: 20rem;
   padding-left: 20rem;
   flex-wrap: wrap;
+  display: flex;
+  justify-content: center;
 }
