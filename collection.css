@@ -1,11 +1,18 @@
-.boost-sd__header-title, .boost-sd__header-description {
-    display:none !important;
+.boost-sd__header-title,
+.boost-sd__header-description {
+  display: none !important;
 }
 
 .product-wrapper {
-    margin-top: 24rem !important;
+  margin-top: 24rem !important;
 }
 
-.boost-sd-layout, .boost-sd__toolbar-inner {
-    max-width: 1280rem !important;
+.boost-sd-layout,
+.boost-sd__toolbar-inner {
+  max-width: 1280rem !important;
+}
+
+.orange-banner {
+  padding-right: 20rem;
+  padding-left: 20rem;
 }
