@@ -19,3 +19,12 @@
   display: flex;
   justify-content: center;
 }
+
+@media screen and (max-width: 767px) {
+  .orange-banner {
+    padding-right: 0;
+    padding-left: 0;
+    flex-wrap: nowrap;
+    display: flex;
+    justify-content: left;
+  }
