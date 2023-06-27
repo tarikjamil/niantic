@@ -23,6 +23,7 @@
 .boost-sd__collection-header {
     padding-right: 80rem;
     padding-left: 80rem;
+    height:480rem;
 }
 
 @media screen and (max-width: 767px) {
